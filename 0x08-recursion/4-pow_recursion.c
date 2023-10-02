@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * _pow_recursion - function name
- * @x: parameter 1
- * @y: parameter 2
+ * _pow_recursion - power of a number
+ * @x: number
+ * @y: power
  * Return: value of a given number passed to the function
  */
 
